@@ -28,6 +28,6 @@ class TextController extends Controller
         
         $text = Text::where('slug', $slug)->first();
 
-        return Inertia::render('Text', ['text' => $text]);
+        return Inertia::render('Explore/Text', ['text' => $text]);
     }
 }

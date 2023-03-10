@@ -1,8 +1,6 @@
 <script setup>
 import { h } from 'vue'
-import TextInput from '../Components/TextInput.vue'
-import { Link } from '@inertiajs/vue3'
-
+/// PAGINA DESABILITADA.......
 
 
 </script>
